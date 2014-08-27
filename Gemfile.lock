@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    libxml-ruby (2.7.0)
+    libxslt-ruby (1.1.1)
+      libxml-ruby (>= 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  libxml-ruby
+  libxslt-ruby
